@@ -1,3 +1,6 @@
+// Problem name: Domino piling
+// 50A
+
 #include <iostream>
 
 using namespace std;
